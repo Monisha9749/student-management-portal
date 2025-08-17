@@ -36,20 +36,16 @@ http://localhost:5173
 
 Screenshots
 
-<img width="1919" height="1126" alt="image" src="https://github.com/user-attachments/assets/5aeba773-0dd7-4001-8af9-62f7df90a9d1" />
+<img width="1919" height="1126" alt="Screenshot 2025-08-17 195313" src="https://github.com/user-attachments/assets/6e893ba5-21e3-4663-946a-5f45b00cd201" />
 
-<img width="1918" height="1126" alt="image" src="https://github.com/user-attachments/assets/2e4e6bad-d89a-4b53-aae2-7e292baf5217" />
+<img width="1918" height="1126" alt="Screenshot 2025-08-17 195526" src="https://github.com/user-attachments/assets/0ad87050-1f25-4e74-836b-273a393347eb" />
 
-<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/df56ade7-7c7b-4655-b82a-c0b38d2b6371" />
+<img width="1919" height="1125" alt="Screenshot 2025-08-17 195947" src="https://github.com/user-attachments/assets/893bd275-e5ee-48dd-9401-e42705e6db56" />
 
-<img width="1918" height="1126" alt="image" src="https://github.com/user-attachments/assets/d4bc86ed-b955-4e1a-a4b5-75211cb03a3c" />
+<img width="1918" height="1126" alt="Screenshot 2025-08-17 195622" src="https://github.com/user-attachments/assets/1667642c-8563-4856-a1f2-1473b73951a0" />
 
-<img width="1917" height="1119" alt="image" src="https://github.com/user-attachments/assets/c7bb4e03-06ba-4bd9-9981-58e6e7422939" />
+<img width="1917" height="1119" alt="Screenshot 2025-08-17 195652" src="https://github.com/user-attachments/assets/7f380963-77cf-405c-bf34-aba131d7b7d6" />
 
-<img width="1906" height="1126" alt="image" src="https://github.com/user-attachments/assets/da4a075c-d0ad-42fa-b4e3-396669f86a97" />
+<img width="1906" height="1126" alt="Screenshot 2025-08-17 195735" src="https://github.com/user-attachments/assets/79519a8b-5fbe-4fdf-a64e-71dd4a12c374" />
 
-<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/6517e1ce-7129-431f-97ba-6deb4f129245" />
-
-
-
-
+<img width="1919" height="1125" alt="Screenshot 2025-08-17 195908" src="https://github.com/user-attachments/assets/e870c824-f14f-411e-b8d8-ba38b5ea66ac" />
