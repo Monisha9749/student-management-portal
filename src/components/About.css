@@ -1,0 +1,21 @@
+.about-section {
+  max-width: 800px;   
+  margin: 50px auto;  
+  padding: 0 20px;    
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+  color: #333;
+}
+
+.about-section h2 {
+  font-size: 36px;
+  margin-bottom: 25px;
+  color: #082d2f9f; 
+  text-align: center;
+}
+
+.about-section p {
+  font-size: 18px;
+  margin-bottom: 20px;
+  text-align: justify; 
+}
